@@ -1,7 +1,7 @@
 # Dokumen Teknis Modul 2 – HTML Semantik, Tailwind CSS, dan Aksesibilitas
 
 Nama/NIM      : Syauqi / 105224053
-Repositori    : [Isi tautan repositori GitHub kamu]
+Repositori    : (https://github.com/Yookiftw/105224053_PrakPemWeb)
 
 ## 1. Struktur Semantik
 - **Kerangka landmark dan hierarki judul halaman utama:**
